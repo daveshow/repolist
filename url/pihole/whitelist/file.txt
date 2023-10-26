@@ -193,3 +193,4 @@ support.iam.ad.azure.com
 main.iam.ad.ext.azure.com
 mparticle.weather.com
 www.amazon.com
+fundingchoices.google.com
